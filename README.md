@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-moved to https://codeberg.org/anhsirk0
+moved to https://codeberg.org/stndrk
 New/Updated projects will be available on Codeberg.
 
 <div align="center">
